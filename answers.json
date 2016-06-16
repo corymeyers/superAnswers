@@ -1,11 +1,20 @@
 { "answers": [{
-  "corpse": "Mothers, molecules, and marshmallows.",
-  "author": "Savage Fred"
-},{
-  "corpse": "The answer is no.",
-  "author": "Negative Nancy"
-},{
-  "corpse": "The sound of blue.",
-  "author": "Pietro"
+    "corpse": "Mothers, molecules, and marshmallows.",
+    "author": "Savage Fred"
+  },{
+    "corpse": "The answer is no.",
+    "author": "Negative Nancy"
+  },{
+    "corpse": "The sound of blue.",
+    "author": "Pietro"
+  }],
+  "questions": [{
+    "head": "But why?",
+    "author": "That girl",
+    "details": "none"
+  },{
+    "head": "What is a question?",
+    "author": "Thunder Pilgrim",
+    "details": "none2"
 }]
 }

@@ -2,6 +2,12 @@
 
 module.exports = function(environment) {
   var ENV = {
+    firebase: {
+      apiKey: "AIzaSyDNlNYESq8BQ32n9STR_xdqGSkopc3jf2g",
+      authDomain: "superanswers-311b0.firebaseapp.com",
+      databaseURL: "https://superanswers-311b0.firebaseio.com",
+      storageBucket: "",
+    },
     modulePrefix: 'super-answers',
     environment: environment,
     baseURL: '/',

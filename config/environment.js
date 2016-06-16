@@ -6,7 +6,7 @@ module.exports = function(environment) {
       apiKey: "AIzaSyDNlNYESq8BQ32n9STR_xdqGSkopc3jf2g",
       authDomain: "superanswers-311b0.firebaseapp.com",
       databaseURL: "https://superanswers-311b0.firebaseio.com",
-      storageBucket: "",
+      storageBucket: "superanswers-311b0.appspot.com",
     },
     modulePrefix: 'super-answers',
     environment: environment,

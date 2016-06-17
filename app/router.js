@@ -11,3 +11,6 @@ Router.map(function() {
 });
 
 export default Router;
+
+
+//https://www.learnhowtoprogram.com/javascript/ember-js/implementing-model-relationships
